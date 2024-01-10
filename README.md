@@ -15,14 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h3>Tech Stack💬</h3>
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=FFF" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=111">
-  <img src="https://img.shields.io/badge/github-111?style=for-the-badge&logo=github&logoColor=FFF">
-</div>
-
 <h3>Stat🌱</h3>
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ra-jin&layout=compact"><br><br>
@@ -39,6 +31,7 @@ Here are some ideas to get you started:
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
@@ -47,8 +40,20 @@ Here are some ideas to get you started:
 
 # 📌 Projects
 # 📚 Education and Experience
+## 건국대학교
+### 2017 ~ 2022
+- 파이썬을 기본으로 알고리즘, OOP, 데이터베이스등 기본적인 컴퓨터 공학 이론 배움
+- 신산업융합학과
+
+## 내일배움
+### 2022 ~ 2023
+- 웹퍼블리셔&디자인 7개월 과정 수료
+
 # 🔎 Certificate
 # 📮 Contact
+- E-mail : jjangsuyeon0908@gmail.com
+- Blog : https://velog.io/@jjangsuyeon0908/posts
+- GitHub : https://github.com/jjangsuyeon0908/jjangsuyeon0908
 
 ## _The Last Markdown Editor, Ever_
 
