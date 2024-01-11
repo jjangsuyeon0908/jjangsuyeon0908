@@ -14,8 +14,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjangsuyeon0908&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)"><br><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjangsuyeon0908&hide_progress=true)"><br><br>
   <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=highcontrast">
 </div>
