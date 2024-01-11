@@ -1,8 +1,8 @@
 <h3>Stat🌱</h3>
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyeon&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=suyeon&show_icons=true"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=suyeon&show_icons=true&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjangsuyeon0908&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=radical">
 </div>
 
 
