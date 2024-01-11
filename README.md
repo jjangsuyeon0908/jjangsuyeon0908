@@ -6,7 +6,8 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+(https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=dracula)
+(https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 
 # 📃 Suyeon's Portfolio
