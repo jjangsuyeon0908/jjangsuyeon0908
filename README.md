@@ -19,7 +19,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=highcontrast">
 </div>
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={sim01202})](https://solved.ac/{sim01202})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sim01202)](https://solved.ac/sim01202)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
 
 # 📌 Projects
