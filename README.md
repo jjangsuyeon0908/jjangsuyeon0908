@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header%30render&fontColor=e7f216&text=Suyeon's%20Portfolio&animation=twinkling&color=_000000)
-![footer](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 # 📃 Suyeon's Portfolio
 > 장수연(Suyeon Jang) 포트폴리오
 # 🧸 About Me
@@ -36,6 +35,11 @@
 - E-mail : jjangsuyeon0908@gmail.com
 - Blog : https://velog.io/@jjangsuyeon0908/posts
 - GitHub : https://github.com/jjangsuyeon0908/jjangsuyeon0908
+![footer](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=_000000)
+
+
+
+
 
 ## _The Last Markdown Editor, Ever_
 
