@@ -1,19 +1,3 @@
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjangsuyeon0908&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=dracula">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=highcontrast">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=synthwave">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=cobalt">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=onedark">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=tokyonight">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=merko">
-</div>
-
-
-
-
-
 # 📃 Suyeon's Portfolio
 > 장수연(Suyeon Jang) 포트폴리오
 # 🧸 About Me
@@ -29,7 +13,10 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjangsuyeon0908&layout=compact"><br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=jjangsuyeon0908&show_icons=true&theme=highcontrast">
+</div>
 
 # 📌 Projects
 # 📚 Education and Experience
