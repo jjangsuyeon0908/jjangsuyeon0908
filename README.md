@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header%30render&fontColor=e7f216&text=Suyeon's%20Portfolio&animation=twinkling&color=#000000)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&section=header%30render&fontColor=e7f216&text=Suyeon's%20Portfolio&animation=twinkling&color=_000000)
 ![footer](https://capsule-render.vercel.app/api?type=waving&height=90&section=footer)
 # 📃 Suyeon's Portfolio
 > 장수연(Suyeon Jang) 포트폴리오
